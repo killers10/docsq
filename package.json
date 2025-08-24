@@ -38,7 +38,7 @@
     "next": "14.2.21",
     "next-sitemap": "^4.2.3",
     "nextra": "2.13.2",
-    "nextra-theme-docs": "2.13.2",
+    "nextra-theme-docs": "2.13.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "search-insights": "^2.15.0",
