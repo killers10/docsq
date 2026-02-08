@@ -33,7 +33,7 @@
     "clsx": "^2.1.1",
     "dotenv": "^16.4.7",
     "escape-string-regexp": "^5.0.0",
-    "glob": "^11.0.1",
+    "glob": "^12.0.0",
     "js-yaml": "^4.1.0",
     "next": "14.2.21",
     "next-sitemap": "^4.2.3",
